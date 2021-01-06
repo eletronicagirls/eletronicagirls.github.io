@@ -32,4 +32,10 @@ O formulário encerrara no dia 8/1/2021 - 24h.
 Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
- - [Lista dos grupos de estudos](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
+ ---
+ - Menu 
+
+[Lista dos grupos de estudos](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
+[código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
+[Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
+
