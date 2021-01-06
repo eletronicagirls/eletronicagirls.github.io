@@ -18,4 +18,4 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 O formulário encerrara no dia 8/1/2021 - 24h
 
-[Formulario de inscrição](https://forms.gle/SDPHqSZyyVhVXfG67)
+[Formulário de inscrição](https://forms.gle/SDPHqSZyyVhVXfG67)
