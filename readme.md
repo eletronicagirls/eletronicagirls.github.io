@@ -20,8 +20,13 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 * A reunião de fundação será dado a liberdade apenas para o gênero feminino.
 
-** Nome provisório
+** Nome provisório, Site provisório e Logo provisório
 
 [Formulário de inscrição](https://forms.gle/SDPHqSZyyVhVXfG67)
 
 O formulário encerrara no dia 8/1/2021 - 24h.
+
+![Atribuição-NãoComercial-CompartilhaIgual - Imagem CC](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+
+Atribuição-NãoComercial-CompartilhaIgual
+CC BY-NC-SA
