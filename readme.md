@@ -1,8 +1,7 @@
 <div style="text-align:center;">
 <img src="./favicon.ico" alt="Logo">
+  <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
 </div>
-
-### Reunião de Fundação do grupo Eletrônica Girls**
 
 ---
 
