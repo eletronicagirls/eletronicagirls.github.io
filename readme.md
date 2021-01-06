@@ -22,7 +22,7 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 ** **Nome provisório, Site provisório e Logo provisório**
 
-<a style="size: 32; Background: #000; color: #fff" href="https://forms.gle/SDPHqSZyyVhVXfG67">Formulário de inscrição</a>
+<a style="size: 32; Background: #000; color: #fff; padding: 6px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG67">Formulário de inscrição</a>
 
 
 
