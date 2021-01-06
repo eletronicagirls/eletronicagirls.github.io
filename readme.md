@@ -20,7 +20,7 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 * A reunião de fundação será dado a liberdade apenas para o gênero feminino.
 
-** Nome provisório, Site provisório e Logo provisório
+** **Nome provisório, Site provisório e Logo provisório**
 
 [Formulário de inscrição](https://forms.gle/SDPHqSZyyVhVXfG67)
 
