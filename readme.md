@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-<img src="./logo.png" alt="Logo">
+<img src="./favicon.ico" alt="Logo">
 </div>
 
 ### Reunião de Fundação do grupo Eletrônica Girls**
