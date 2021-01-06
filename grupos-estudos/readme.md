@@ -6,29 +6,29 @@
 ---
 
 
- - Grupo em aberto para inscrição:
+ #### Grupo em aberto para inscrição:
 
 ---
 
 
-Lista vazia 
+ - Lista vazia 
 
 
 ---
 
- - Grupo em andamento:
+ #### Grupo em andamento:
  
 ---
 
-Lista vazia 
+ - Lista vazia 
 
 ---
 
- - Grupo já finalizado:
+ #### Grupo já finalizado:
 
 ---
 
-Lista vazia 
+ - Lista vazia 
 
 ---
 
