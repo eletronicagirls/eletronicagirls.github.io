@@ -22,7 +22,8 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 ** **Nome provisório, Site provisório e Logo provisório**
 
-[Formulário de inscrição](https://forms.gle/SDPHqSZyyVhVXfG67)
+<a style="size: 32; Background: #000; color: #fff" href="https://forms.gle/SDPHqSZyyVhVXfG67">Formulário de inscrição</a>
+
 
 
 O formulário encerrara no dia 8/1/2021 - 24h.
@@ -33,9 +34,11 @@ Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
  ---
- - Menu 
+ Menu: 
 
 [Lista dos grupos de estudos](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
+
 [código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
+
 [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
 
