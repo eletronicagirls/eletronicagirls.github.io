@@ -1,10 +1,10 @@
-### Reunião de Fundação do grupo Eletrônica Girls**
-
----
-
 <div style="text-align:center;">
 <img src="./logo.png" alt="Logo">
 </div>
+
+### Reunião de Fundação do grupo Eletrônica Girls**
+
+---
 
 Este formulário é para inscrição de participar da reunião de fundação do grupo Eletrônica Girls**
 
