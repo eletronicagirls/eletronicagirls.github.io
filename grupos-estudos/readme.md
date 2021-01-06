@@ -7,20 +7,22 @@
 
 #### Lista dos grupos de estudo
 
+
  - Grupo em aberto para inscrição:
 
 ---
 
 
-
+Lista vazia 
 
 
 ---
+
  - Grupo em andamento:
+ 
 ---
 
-
-
+Lista vazia 
 
 ---
 
@@ -28,7 +30,7 @@
 
 ---
 
-
+Lista vazia 
 
 ---
 
