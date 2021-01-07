@@ -38,7 +38,12 @@ CC BY-NC-SA
 
 [Lista dos grupos de estudos](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
 
-[código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
+[Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
+
+[Repositório GitHub](https://github.com/eletronicagirls)
+
+[Wiki - Procediemntos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki)
 
 [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
+
 
