@@ -5,7 +5,7 @@
 
 ---
 
-Este formulário é para inscrição de participar da reunião de fundação do grupo Eletrônica Girls**
+Este formulário é para inscrição de participação da reunião de fundação do grupo Eletrônica Girls**
 
 Proposta do grupo será um hub de formação de grupos de estudo:
 
