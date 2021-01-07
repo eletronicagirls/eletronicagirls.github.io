@@ -40,13 +40,13 @@ CC BY-NC-SA
  ---
  Menu: 
 
-[Lista dos grupos de estudos](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
+[Home](https://eletronicagirls.github.io) :-> Nossa páigna inicial!!!
 
 [Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
 
-[Repositório GitHub](https://github.com/eletronicagirls)
+[Repositório GitHub](https://github.com/eletronicagirls) :-> Visite!!!
 
-[Wiki - Procediemntos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki)
+[Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
 
 [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
 
