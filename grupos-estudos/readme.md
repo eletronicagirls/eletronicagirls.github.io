@@ -5,7 +5,7 @@
 
 ---
 
-# Grupo em aberto para inscrição:
+## Grupo em aberto para inscrição:
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-# Grupo em andamento:
+## Grupo em andamento:
  
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-# Grupo já finalizado:
+## Grupo já finalizado:
 
 ---
 
@@ -44,16 +44,16 @@ Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
  ---
- # Menu: 
+ ## Menu: 
 
-## [Home](https://eletronicagirls.github.io/) :-> Home pages do site
+[Home](https://eletronicagirls.github.io/) :-> Home pages do site
 
-## [Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
+[Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
 
-## [Repositório GitHub](https://github.com/eletronicagirls) :-> Visite!!!
+[Repositório GitHub](https://github.com/eletronicagirls) :-> Visite!!!
 
-## [Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
+[Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
 
-## [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
+[Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
 
 
