@@ -1,11 +1,19 @@
 <div style="text-align:center;">
 <img src="../favicon.ico" alt="Logo">
-  <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
+  <h3>Sobre grupo Eletrônica Girls</h3>
 </div>
 
 ---
+**2020 ->**
 
-Grupo fundado oficialmente no dia --/--/--
+Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python com Arduino. neste workshop a palestrante criou um grupo no Telegram. Passando o ano de 2020, sem muita movimentação, mas o sonho que criar um projeto para insentivar mulheres na área de eletrônica só aumentava.
+
+**2021 ->**
+
+No mês de janeiro veio um xeque mate para oficialização do grupo, sendo no dia --/--/-- a data oficial da fundação.
+
+no dia teve a presença na reunião:
+
 
 
 
@@ -17,9 +25,7 @@ Grupo fundado oficialmente no dia --/--/--
 
 ## visão
 
-
-
-
+<BR><BR>
 <a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG">Formulário de contato</a>
 
 Como todas são volutária, pode ocorrer demora para contato de retorno.
