@@ -26,7 +26,7 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 
 
-O formulário encerrara no dia 8/1/2021 - 24h.
+O formulário encerrara no dia 7/1/2021 - 24h.
 
 ![Atribuição-NãoComercial-CompartilhaIgual - Imagem CC](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 
