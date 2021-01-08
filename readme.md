@@ -48,4 +48,6 @@ CC BY-NC-SA
 [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
 
 ---
+<div style="text-align:center; size: 10px">
 2021 - Comunidade Eletrônica Girls - Todos Direitos Reservados
+</div>
