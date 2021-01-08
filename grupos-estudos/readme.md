@@ -44,7 +44,7 @@ Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
  ---
- ## Menu: 
+## Menu: 
 
 [Home](https://eletronicagirls.github.io/) :-> Home pages do site
 
