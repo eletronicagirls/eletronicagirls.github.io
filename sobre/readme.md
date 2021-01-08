@@ -39,7 +39,7 @@ CC BY-NC-SA
  ---
  Menu: 
 
-[home](https://eletronicagirls.github.io/) :-> Home Pages do site
+[Home](https://eletronicagirls.github.io/) :-> Home Pages do site
 
 
 [Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
