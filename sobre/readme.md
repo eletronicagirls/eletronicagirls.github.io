@@ -20,7 +20,7 @@ Grupo fundado oficialmente no dia --/--/--
 
 
 
-<a style="size: 32; Background: #FF0000; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG"><s>Formulário de contato</s></a>
+<a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG">Formulário de contato</a>
 
 Como todas são volutária, pode ocorrer demora para contato de retorno.
 
