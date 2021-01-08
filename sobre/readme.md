@@ -10,7 +10,7 @@ Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python c
 
 **2021 ->**
 
-No mês de janeiro veio um xeque mate para oficialização do grupo, sendo no dia --/--/-- a data oficial da fundação.
+No mês de janeiro veio um xeque-mate para oficialização do grupo, sendo no dia --/--/-- a data oficial da fundação.
 
 no dia teve a presença na reunião:
 
