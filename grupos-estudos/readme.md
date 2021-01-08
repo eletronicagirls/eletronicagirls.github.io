@@ -5,7 +5,7 @@
 
 ---
 
-#### Grupo em aberto para inscrição:
+## Grupo em aberto para inscrição:
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-#### Grupo em andamento:
+## Grupo em andamento:
  
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-#### Grupo já finalizado:
+## Grupo já finalizado:
 
 ---
 
