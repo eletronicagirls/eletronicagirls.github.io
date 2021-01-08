@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-<img src="../favicon.ico" alt="Logo">
+<img src="../img/favicon.ico" alt="Logo">
   <h3>Sobre grupo Eletrônica Girls</h3>
 </div>
 
