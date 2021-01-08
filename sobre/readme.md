@@ -39,7 +39,7 @@ CC BY-NC-SA
  ---
  Menu: 
 
-[Home](https://eletronicagirls.github.io/) :-> Home Pages do site
+[Home](https://eletronicagirls.github.io/) :-> Home pages do site
 
 [Lista de grupo de estudo](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
 
