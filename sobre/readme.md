@@ -23,7 +23,7 @@ no dia teve a presença na reunião:
 ## Valor
 <BR><BR>
 
-## visão
+## Visão
 <BR><BR>
   
 <a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG">Formulário de contato</a>
