@@ -6,7 +6,7 @@
 ---
 **2020 ->**
 
-Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python com Arduino. neste workshop a palestrante criou um grupo no Telegram. Passando o ano de 2020, sem muita movimentação, mas o sonho que criar um projeto para insentivar mulheres na área de eletrônica só aumentava.
+Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python com Arduino. neste workshop a palestrante criou um grupo no Telegram. Passando o ano de 2020, sem muita movimentação, mas o sonho de criar um projeto para incentivar mulheres na área de eletrônica só aumentava.
 
 **2021 ->**
 
