@@ -18,14 +18,14 @@ no dia teve a presença na reunião:
 
 
 ## Missão
-
+<BR><BR>
 
 ## Valor
-
+<BR><BR>
 
 ## visão
-
 <BR><BR>
+  
 <a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG">Formulário de contato</a>
 
 Como todas são volutária, pode ocorrer demora para contato de retorno.
