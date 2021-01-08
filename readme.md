@@ -46,3 +46,6 @@ CC BY-NC-SA
 [Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
 
 [Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
+
+---
+2021 - Comunidade Eletrônica Girls
