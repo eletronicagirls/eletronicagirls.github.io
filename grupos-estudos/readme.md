@@ -46,7 +46,7 @@ CC BY-NC-SA
  ---
  Menu: 
 
-[Home](https://eletronicagirls.github.io) :-> Nossa páigna inicial!!!
+[Home](https://eletronicagirls.github.io/) :-> Home pages do site
 
 [Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
 
