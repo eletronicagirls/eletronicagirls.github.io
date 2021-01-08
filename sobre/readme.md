@@ -41,11 +41,10 @@ CC BY-NC-SA
 
 [Home](https://eletronicagirls.github.io/) :-> Home Pages do site
 
+[Lista de grupo de estudo](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
 
 [Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
 
 [Repositório GitHub](https://github.com/eletronicagirls) :-> Visite!!!
 
 [Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
-
-[Sobre](https://eletronicagirls.github.io/sobre/) :-> sem dados ainda!!!
