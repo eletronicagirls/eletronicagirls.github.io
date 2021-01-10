@@ -1,11 +1,11 @@
+ <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos </a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Wiki - Procedimentos</a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/sobre/">Sobre</a>
+
+
 <div style="text-align:center;">
 <img src="./img/logo.png" alt="Logo">
   <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
 </div>
 
- <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos</a> <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">Repositório GitHub</a> <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Wiki - Procedimentos</a> <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/sobre/">Sobre</a>
- 
- 
 ---
 
 Este formulário é para inscrição de participação da reunião de fundação do grupo Eletrônica Girls**
@@ -37,7 +37,8 @@ CC BY-NC-SA
 
  ---
  
- <a style="size: 32; Background: #FF0000; color: #fff; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> <a style="size: 32; Background: #4682B4; color: #fff; padding: 9px; border-radius: 4px;" href="https://linkedin.com/company/eletronicagirls">Linkedin</a> <a style="size: 32; Background: #4682B4; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a>
+ <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://linkedin.com/company/eletronicagirls">Linkedin</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">Repositório GitHub</a> | 
+<a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
 
 
 ---
