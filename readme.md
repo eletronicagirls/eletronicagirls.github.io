@@ -1,4 +1,5 @@
  <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos </a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Wiki - Procedimentos</a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/sobre/">Sobre</a>
+ <BR><BR>
 
 
 <div style="text-align:center;">
@@ -37,8 +38,8 @@ CC BY-NC-SA
 
  ---
  
- <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://linkedin.com/company/eletronicagirls">Linkedin</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> <a style="size: 32; Background: #FFC0CB; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">Repositório GitHub</a> | 
-<a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
+ <a style="size: 32; Background: #B0E0E6; color: #fff; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> <a style="size: 32; Background: #B0E0E6; color: #fff; padding: 9px; border-radius: 4px;" href="https://linkedin.com/company/eletronicagirls">Linkedin</a> <a style="size: 32; Background: #B0E0E6; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> <a style="size: 32; Background: #B0E0E6; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">Repositório GitHub</a> | 
+<a style="size: 32; Background: #B0E0E6; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
 
 
 ---
