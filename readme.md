@@ -22,9 +22,8 @@ Proposta do grupo será um hub de formação de grupos de estudo:
 
 ** **Nome provisório, Site provisório e Logo provisório**
 
-<a style="size: 32; Background: #FF0000; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG67"><s>Formulário de inscrição</s></a>
+<a style="size: 32; Background: #FF0000; color: #fff; padding: 9px; border-radius: 4px;" href="https://forms.gle/SDPHqSZyyVhVXfG67"><s>Formulário de inscrição</s></a> <a style="size: 32; Background: #4682B4; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/atas-reunioes/10-01-2021">Ata da reunião</a>
 
- - [Ata da reunião](https://eletronicagirls.github.io/atas-reunioes/10-01-2021)
 
 O formulário encerrara no dia 7/1/2021 - 24h.
 
