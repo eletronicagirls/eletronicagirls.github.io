@@ -1,4 +1,4 @@
- <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos </a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Wiki - Procedimentos</a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/sobre/">Sobre</a>
+ <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos </a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a style="size: 32; Background: #836FFF; color: #fff; padding: 9px; border-radius: 4px;" href="https://eletronicagirls.github.io/sobre/">Sobre</a>
  <BR><BR>
 
 
