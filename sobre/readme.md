@@ -1,3 +1,8 @@
+ <a href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos</a> | <a href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a> | 
+ <a href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
+ <BR><BR>
+
+
 <div style="text-align:center;">
 <img src="../img/favicon.ico" alt="Logo">
   <h3>Sobre grupo Eletrônica Girls</h3>
@@ -10,11 +15,16 @@ Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python c
 
 **2021 ->**
 
-No mês de janeiro veio um xeque-mate para oficialização do grupo, sendo no dia --/--/-- a data oficial da fundação.
+No mês de janeiro veio um xeque-mate para oficialização do grupo, sendo no dia 10/01/2021 a data oficial da fundação.
 
-no dia teve a presença na reunião:
+Presentes:
 
-
+|Nome:           |localidade:        |Github:         | 
+|---             |---                |---             |
+|Daviny Vidal    | São Paulo - SP    | davinyvidal    |
+|Alynne Ferreira | São Bernardo - SP | alynnefs       |
+|Jéssica Freitas | ---               | jess-gf        |
+|Marina Tukozaki | Guarulhos - SP    | Marinatukozaki |
 
 
 ## Missão
@@ -37,14 +47,7 @@ Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
  ---
- Menu: 
 
-[Home](https://eletronicagirls.github.io/) :-> Home pages do site
+ <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://www.linkedin.com/company/eletronica-girls">Linkedin</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">GitHub</a>
 
-[Lista de grupo de estudo](https://eletronicagirls.github.io/grupos-estudos/) :-> sem dados ainda!!!
-
-[Código de conduta](https://github.com/eletronicagirls/codigo-conduta/) :-> sem dados ainda!!!
-
-[Repositório GitHub](https://github.com/eletronicagirls) :-> Visite!!!
-
-[Wiki - Procedimentos](https://github.com/eletronicagirls/eletronicagirls.github.io/wiki) :-> em constante atualização!!!
+---
