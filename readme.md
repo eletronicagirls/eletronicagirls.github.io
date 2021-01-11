@@ -1,6 +1,7 @@
 
  
- <a href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos</a> | <a href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a>
+ <a href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos</a> | <a href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a> | 
+ <a href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
  <BR><BR>
 
 
@@ -40,8 +41,7 @@ CC BY-NC-SA
 
  ---
  
- <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://www.linkedin.com/company/eletronica-girls">Linkedin</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">Repositório GitHub</a> | 
-<a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
+ <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://www.linkedin.com/company/eletronica-girls">Linkedin</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">GitHub</a>
 
 
 ---
