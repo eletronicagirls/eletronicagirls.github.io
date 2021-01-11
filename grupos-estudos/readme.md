@@ -1,8 +1,6 @@
- <a href="https://eletronicagirls.github.io/grupos-estudos/">Lista dos grupos de estudos</a> | <a href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a> | 
- <a href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a> 
- <BR><BR>
+ <a href="https://eletronicagirls.github.io/grupos-estudos/">Grupos de estudos</a> | <a href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimentos</a> | <a href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a>  | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a>
 
-
+<BR><BR>
 <div style="text-align:center;">
 <img src="../img/favicon.ico" alt="Logo">
   <h3>Lista dos grupos de estudo</h3>
