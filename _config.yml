@@ -1,2 +1,13 @@
 theme: jekyll-theme-cayman
-page_excerpts: true
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Lista de Grupos
+  url: https://eletronicagirls.github.io/grupos-estudos/
+
+- title: Procedimentos
+  url: https://github.com/eletronicagirls/eletronicagirls.github.io/wiki
+
+- title: Sobre
+  url: https://eletronicagirls.github.io/sobre/
