@@ -4,16 +4,19 @@
 
 <div style="text-align:center;">
 <img src="../img/logo.png" alt="Logo">
-  <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
+  <h3>Sobre</h3>
 </div>
 
 ---
+Nós somos uma comunidade feminina para criação de grupos de estudo em eletrônica, IoT, sistemas embarcados e muito mais. Ainda estamos no início, mas pretendemos ajudar meninas e mulheres nesse Brasilzão.
 
-**2020 ->**
+
+
+**2020 >>**
 
 Tudo começou com um workshop administrado pelas PyladiesSP, com o tema Python com Arduino. neste workshop a palestrante criou um grupo no Telegram. Passando o ano de 2020, sem muita movimentação, mas o sonho de criar um projeto para incentivar mulheres na área de eletrônica só aumentava.
 
-**2021 ->**
+**2021 >>**
 
 No mês de janeiro veio um xeque-mate para oficialização do grupo, sendo no dia 10/01/2021 a data oficial da fundação.
 
