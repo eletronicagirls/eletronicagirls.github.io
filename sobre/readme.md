@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align:center;">
-<img src="./img/logo.png" alt="Logo">
+<img src="../img/logo.png" alt="Logo">
   <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
 </div>
 
