@@ -36,7 +36,7 @@
 
 ---
 
-<a style="size: 32; Background: #228B22; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">Contato</a>
+<a style="size: 32; Background: #ffd5d5ff; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">Contato</a> <a style="size: 32; Background: #74276bff; color: #fff; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls/eletronicagirls.github.io/wiki">Procedimento</a>
 
 
 Como todas são volutária, pode ocorrer demora para contato de retorno.
