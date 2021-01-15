@@ -2,8 +2,6 @@
 <a href="https://eletronicagirls.github.io">Procedimentos</a> | <a href="https://eletronicagirls.github.io/grupos-estudos/">Grupos de estudos</a> | <a href="https://github.com/eletronicagirls/codigo-conduta/">Código de conduta</a>  | <a href="https://eletronicagirls.github.io/sobre/">Sobre</a>
 </div>
 
-
-<BR>
 <div style="text-align:center;">
 <img src="./img/logo.png" alt="Logo">
   <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
