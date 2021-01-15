@@ -36,7 +36,7 @@ Presentes:
 ## Visão
 <BR><BR>
   
-<a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">Formulário de contato</a>
+<a style="size: 32; Background: #073ED2; color: #fff; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">Contato</a>
 
 Como todas são volutária, pode ocorrer demora para contato de retorno.
 
@@ -47,9 +47,8 @@ Atribuição-NãoComercial-CompartilhaIgual
 CC BY-NC-SA
 
 
- ---
 
- <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://www.linkedin.com/company/eletronica-girls">Linkedin</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">GitHub</a>
+ <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://twitter.com/eletronicagirls">Twitter</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://www.linkedin.com/company/eletronica-girls">Linkedin</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="mailto:eletronicagirls@gmail.com">E-mail</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://github.com/eletronicagirls">GitHub</a> | <a style="size: 32; Background: #B0E0E6; color: #000; padding: 9px; border-radius: 4px;" href="https://instragram.com/eletronicagirls">Instagram</a>
 
 ---
 <div style="text-align:center; size: 10px">
