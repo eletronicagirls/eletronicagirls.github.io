@@ -4,7 +4,7 @@
 
 <div style="text-align:center;">
 <img src="../img/logo.png" alt="Logo">
-  <h3>Reunião de Fundação do grupo Eletrônica Girls**</h3>
+  <h3>Lista dos Grupos de Estudo</h3>
 </div>
 
 ---
